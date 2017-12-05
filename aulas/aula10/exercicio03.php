@@ -53,6 +53,8 @@
         }else{
             echo "Você não selecionou nenhuma região";
         }
+
+//    $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     ?>
     <br/>
 <!--    <a href="javascript:history.go(-1)" class="botao">Voltar</a>-->
